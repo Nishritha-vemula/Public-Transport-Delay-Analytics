@@ -116,7 +116,7 @@ public_transport_delay_analytics/
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/public_transport_delay_analytics.git
+git clone https://github.com/Nishritha-vemula/public_transport_delay_analytics.git
 ```
 
 ### Step 2: Open Dashboard
@@ -137,5 +137,5 @@ Use filters, slicers, and visualizations to interact with the dashboard and anal
 
 Nishrtiha Vemula
 
-GitHub: https://github.com/yourusername
-LinkedIn: https://linkedin.com/in/yourprofile
+GitHub: https://github.com/Nishritha-vemula
+LinkedIn : https://www.linkedin.com/in/nishritha-vemula-2159232a6/
